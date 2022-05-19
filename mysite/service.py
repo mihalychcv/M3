@@ -1,4 +1,5 @@
 from constants import profile
 
 
-print(offline_state)
+print(offline_state )
+println
